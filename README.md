@@ -6,7 +6,6 @@ Este proyecto es una solución para el análisis de datos de partidos y centros 
 
 - **data/**: Contiene los archivos de datos.
 - **scripts/**: Contiene los scripts principales.
-- **notebooks/**: Contiene notebooks de análisis.
 - **requirements.txt**: Lista de dependencias.
 
 ## Requisitos
