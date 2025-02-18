@@ -11,12 +11,8 @@ Este proyecto es una solución para el análisis de datos de partidos y centros 
 
 ## Requisitos
 
-- Python 3.x
+- Python 3
 - PySpark
 - SQLite
 
-## Instalación
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/data-engineer-project.git
